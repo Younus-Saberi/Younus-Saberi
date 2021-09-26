@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/Younus-Saberi/Younus-Saberi/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Younus-Saberi/count.svg" />
+</p>
+
 
 <!-- **Younus-Saberi/Younus-Saberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
