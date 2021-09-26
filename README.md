@@ -15,3 +15,4 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact:  -->
 
 [![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi)](https://github.com/Younus-Saberi/github-readme-stats)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
