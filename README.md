@@ -24,11 +24,3 @@ Here are some ideas to get you started: -->
 ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Younus-Saberi/count.svg" />
-</p>
-
