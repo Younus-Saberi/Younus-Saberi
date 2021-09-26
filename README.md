@@ -16,3 +16,4 @@ Here are some ideas to get you started: -->
 
 ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi)](https://github.com/anuraghazra/github-readme-stats)
