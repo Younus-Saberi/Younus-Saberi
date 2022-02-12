@@ -12,9 +12,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on OpenCV project in Python
-- 🌱 I’m currently learning Android development
-- 👯 I’m looking to collaborate on Android dev projects
+- 🔭 I’m currently working on MS Azure Services
+- 🌱 I’m currently learning Cloud Computing
+- 👯 I’m looking to collaborate on software development
 - 🤔 I’m looking for help with OpenSource
 - 💬 Ask me about Java
 - 📫 How to reach me:[Twitter](https://twitter.com/younussaberi)
