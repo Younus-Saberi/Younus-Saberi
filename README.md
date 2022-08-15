@@ -13,7 +13,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Google Cloud Platform
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on software project
 - 🤔 I’m looking for help with OpenSource
 - 💬 Ask me about Java
