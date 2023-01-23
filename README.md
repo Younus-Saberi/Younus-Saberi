@@ -30,6 +30,6 @@ Here are some ideas to get you started: -->
 
 <div align=center>
    <a href="https://github.com/Younus-Saberi">
-   <img alt="Younus-Saberi" src="https://activity-graph.herokuapp.com/graph?username=Younus-Saberi&theme=redical&hide_border=true" />
+   [![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
    </a>
 </div>
