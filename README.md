@@ -28,8 +28,5 @@ Here are some ideas to get you started: -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
 
-<div align=center>
-   <a href="https://github.com/Younus-Saberi">
-   [![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   </a>
-</div>
+
+[![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
