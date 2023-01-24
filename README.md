@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/Younus-Saberi/Younus-Saberi/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Younus-Saberi/count.svg" /> <br>
@@ -23,10 +22,10 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact:  -->
 
  
-
+<!-- Github Stats -->
 ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
 
+<!-- Top Langs -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
-
 
 [![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
