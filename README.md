@@ -21,7 +21,6 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
- 
 <!-- Github Stats -->
 ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
 
