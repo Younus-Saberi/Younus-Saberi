@@ -20,22 +20,6 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact:  -->
 
 
-  ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
-<p align="center"> 
-
-<h2>testing</h2>
-<!-- Github Stats -->
-
-
-<!-- Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
-
-<!-- Contribution Graph -->
-[![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
-
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/d-cryptic?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/d-cryptic?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -52,3 +36,18 @@ Here are some ideas to get you started: -->
 <span><a href = 'https://www.twitter.com/younussaberi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> </span>
 <span><a href = 'https://www.github.com/Younus-Saberi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> </span>
 </div>
+
+
+![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
+<p align="center"> 
+
+<h2>Github Stats</h2>
+<!-- Github Stats -->
+
+
+<!-- Top Langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
+
+<!-- Contribution Graph -->
+[![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
