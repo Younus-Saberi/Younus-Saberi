@@ -20,8 +20,9 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact:  -->
 
 
-<p align="center"> 
   ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
+<p align="center"> 
+
 <h2>testing</h2>
 <!-- Github Stats -->
 
