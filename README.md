@@ -38,13 +38,12 @@ Here are some ideas to get you started: -->
 </div>
 
 ![Younus GitHub stats](https://github-readme-stats.vercel.app/api?username=Younus-Saberi&show_icons=true&theme=radical)
-<p align="center"> 
 
+<p align="center"> 
 <h2>Github Stats</h2>
 <!-- Github Stats -->
 <!-- Top Langs -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus-Saberi&layout=compact)](https://github.com/Younus-Saberi/github-readme-stats)
 <!-- Contribution Graph -->
 [![Younus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Younus-Saberi&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </p>
