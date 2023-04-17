@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/Younus-Saberi/Younus-Saberi/master/resources/banner.png" alt="Hello world">
+<h2></h2>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Younus-Saberi/count.svg" /> <br>
    <img src="https://github-readme-streak-stats.herokuapp.com?user=Younus-Saberi&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Younus-Saberi" width=49% height=100%/>
 </p>
-
-<h2></h2>
 
 <!-- **Younus-Saberi/Younus-Saberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
