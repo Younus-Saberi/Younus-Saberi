@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Kubernetes 
-- 💬 Ask me about Java
+- 💬 Ask me about Java, Python, Backend Technologies
 - 📫 How to reach me:[Twitter](https://twitter.com/younussaberi)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
