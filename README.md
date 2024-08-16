@@ -11,8 +11,8 @@
 <!-- **Younus-Saberi/Younus-Saberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Google Cloud Platform
-- 🌱 I’m currently learning DSA in Java and DevOps
+- 🔭 I’m currently working on Backend and Cloud Native Technologies
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Kubernetes 
 - 💬 Ask me about Java
