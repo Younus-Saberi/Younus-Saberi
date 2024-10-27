@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Kubernetes 
 - 💬 Ask me about Java, Python, Backend Technologies
-- 📫 How to reach me:[Twitter](https://twitter.com/younussaberi)
+- 📫 How to reach me: younussaberi@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
