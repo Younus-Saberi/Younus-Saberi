@@ -12,9 +12,9 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Backend and Cloud Native Technologies
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning System Design & Distributed System
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Kubernetes 
+- 🤔 I’m looking for help with Cyber-Security/Cryptography
 - 💬 Ask me about Java, Python, Backend Technologies
 - 📫 How to reach me: younussaberi@gmail.com
 <!-- - 😄 Pronouns: ... -->
